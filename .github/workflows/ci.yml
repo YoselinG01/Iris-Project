@@ -27,7 +27,7 @@ jobs:
           pip install seaborn
 
       - name: Print Text message
-        run: "we'll have unit tests here.."
+        run: Echo "we'll have unit tests here.."
           
 
   deploy:
